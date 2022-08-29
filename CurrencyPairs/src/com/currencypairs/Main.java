@@ -27,11 +27,11 @@ public class Main {
 //		for(Data s: c) {
 //			System.out.println("\n"+s);
 //		}
-		sortCurrencyPair(c);
-		for(Data x: c) {
-			System.out.println("\n"+x);
-		}
-		retriveData(c);	
+// 		sortCurrencyPair(c);
+// 		for(Data x: c) {
+// 			System.out.println("\n"+x);
+// 		}
+ 		retriveData(c);	
 
 		
 	}
